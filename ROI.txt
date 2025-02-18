@@ -1,0 +1,4 @@
+time:(406, 4, 225, 47)
+first digit of voltage: (581, 509, 80, 55)
+second digit of voltage: (573, 569, 79, 54)
+third digit of voltage:(563, 626, 81, 54)

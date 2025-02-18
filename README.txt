@@ -1,0 +1,2 @@
+This is a project that uses convolutional neural networks to recognize numbers displayed on an LED digital tube in videos. 
+The video contains glare from the LEDs, which seriously interferes with OpenCV algorithms, but the convolutional neural network can effectively solve this problem.
